@@ -5,7 +5,7 @@
 
 
 # Link to app recetas
-(https://luisdev14.github.io/app_recetas/)
+https://luisdev14.github.io/app_recetas/
 
 
 
