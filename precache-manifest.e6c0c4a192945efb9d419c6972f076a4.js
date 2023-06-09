@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/app_recetas/static/media/recipe.6a68b676.png"
   },
   {
-    "revision": "beb42e39caf4ee2edf809aa9dbfdfad0",
+    "revision": "2edb0209c0a4fc42a6a69d4e0b7a4627",
     "url": "/app_recetas/index.html"
   }
 ];
