@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "a3d8d4ac4557c68a0771",
-    "url": "/app_recetas/static/js/main.a3d8d4ac.chunk.js"
+    "revision": "7407e33b189ecef9c6ed",
+    "url": "/app_recetas/static/js/main.7407e33b.chunk.js"
   },
   {
     "revision": "ec766d5775bb0d4723b4",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/app_recetas/static/media/recipe.6a68b676.png"
   },
   {
-    "revision": "baf6f00b24960a483c326f325ed46c54",
+    "revision": "beb42e39caf4ee2edf809aa9dbfdfad0",
     "url": "/app_recetas/index.html"
   }
 ];
