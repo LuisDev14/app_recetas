@@ -44,11 +44,11 @@ function RecetaForm() {
   }, [recetasItems]);
 
   return (
-    <div style={{ backgroundColor: "#DDF7E3"}}>
+    <div style={{ backgroundColor: "#DDF7E3", minHeight:"100vh",minWidth:"100vw" }}>
       <div className="d-flex justify-content-center">
         <div className="col-md-4">
 
-          <h3>Formulario de recetas de cocina</h3>
+          <h3>Formulario de recetas de cocina.</h3>
 
           <label>Receta </label>
           <input
