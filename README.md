@@ -7,7 +7,9 @@
 # Link to app recetas
 https://luisdev14.github.io/app_recetas/
 
-
+Add recipes and display them on screen
+*UseState and UseEffect
+*with data persistence in localStorage
 
 
 
