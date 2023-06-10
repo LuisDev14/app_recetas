@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import RecetaItem from "./components/RecetaItemComponente";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 function RecetaForm() {
 	const [receta, setReceta] = useState({
